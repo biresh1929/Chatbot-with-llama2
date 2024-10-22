@@ -1,0 +1,3 @@
+ChatPromptTemplate: This is a tool from langchain-core that helps us create structured prompts for our chatbot.
+Ollama: This is the module that gives us access to the LLaMA model.
+streamlit as st: This imports the Streamlit library and allows us to use it with the shorthand st.
