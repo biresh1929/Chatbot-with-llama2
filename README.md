@@ -1,4 +1,4 @@
-#Chatbot with llama2 and Streamlit
+#A Very Basic Conversational Chatbot with llama2 and Streamlit
 
 You can run this by first downloading ollama for your corresponding os
 
